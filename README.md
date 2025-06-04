@@ -28,7 +28,7 @@ Aprendi um pouco de Assembly e C para utilizar em microcontroladores e desde ent
 
  Estou atualmente cursando Ciência da Computação e buscando oportunidades de estágio para conseguir ingressar na área e realizar a transição de carreira.
 
- Não tenho definido ainda qual área quero me especializar mas estou sempre experimentando para ver com o que me identifico mais! Por enquanto essas são as linguagens/tecnologias que já tive contato, e confesso que estou gostando mais do ambiente .NET
+ Meu maior interesse é atuar com desenvolvimento backend. Por enquanto essas são as linguagens/tecnologias que já tive contato, com meu foco maior sendo em C#/NET
 
 ## 📖 Linguagens/Tecnologias favoritas
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
